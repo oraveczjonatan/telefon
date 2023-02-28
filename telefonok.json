@@ -1,0 +1,74 @@
+[
+  {
+    "nev": "iPhone 14",
+    "ar": 349990,
+    "szin": "piros",
+    "gyarto": 1 
+  },
+  {
+    "nev": "iPad 9 tablet",
+    "ar": 159990,
+    "szin": "ezüst",
+    "gyarto": 1 
+  },
+  {
+    "nev": "Apple Watch SE2 GPS",
+    "ar": 124990,
+    "szin": "fekete",
+    "gyarto": 1 
+  },
+  {
+    "nev": "Samsung Galaxy S23 Ultra 5G",
+    "ar": 689990,
+    "szin": "fantomfekete",
+    "gyarto": 2 
+  },
+  {
+    "nev": "Samsung Galaxy A33 5G",
+    "ar": 124990,
+    "szin": "fekete",
+    "gyarto": 2 
+  },
+  {
+    "nev": "Nokia 105 (2019) feltöltőkártyás",
+    "ar": 5490,
+    "szin": "fekete",
+    "gyarto": 3 
+  },
+  {
+    "nev": "Xiaomi F490, DVB4303GL, 4G LTE",
+    "ar": 22389,
+    "szin": "kék",
+    "gyarto": 4 
+  },
+  {
+    "nev": "OPPO Find X5 Pro",
+    "ar": 557590,
+    "szin": "glaze black",
+    "gyarto": 5 
+  },
+  {
+    "nev": "Oppo Reno 6 Pro",
+    "ar": 298975,
+    "szin": "lunar grey",
+    "gyarto": 5 
+  },
+  {
+    "nev": "Motorola Moto Razr 2022",
+    "ar": 529990,
+    "szin": "fekete",
+    "gyarto": 6 
+  },
+  {
+    "nev": "Motorola Edge 30 Pro 5G",
+    "ar": 465842,
+    "szin": "stardust white",
+    "gyarto": 6 
+  },
+  {
+    "nev": "Huawei Mate 50 Pro",
+    "ar": 561690,
+    "szin": "ezüst",
+    "gyarto": 7 
+  }
+]

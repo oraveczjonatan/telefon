@@ -1,0 +1,44 @@
+[
+  {
+    "_id": 1,
+    "nev": "Apple",
+    "alapitva": 1976,
+    "elnok": "Tim Cook"
+  },
+  {
+    "_id": 2,
+    "nev": "Samsung",
+    "alapitva": 1938,
+    "elnok": "Kim Ki Nam"
+  },
+  {
+    "_id": 3,
+    "nev": "Nokia",
+    "alapitva": 1865,
+    "elnok": "Pekka Lundmark"
+  },
+  {
+    "_id": 4,
+    "nev": "Xiaomi",
+    "alapitva": 2010,
+    "elnok": "Lej Csün"
+  },
+  {
+    "_id": 5,
+    "nev": "Oppo",
+    "alapitva": 2004,
+    "elnok": "Tony Chen"
+  },
+  {
+    "_id": 6,
+    "nev": "Motorola",
+    "alapitva": 2011,
+    "elnok": "Greg Brown"
+  },
+  {
+    "_id": 7,
+    "nev": "Huawei",
+    "alapitva": 1987,
+    "elnok": "Zsen Cseng-fej"
+  }
+]
